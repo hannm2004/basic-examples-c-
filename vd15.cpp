@@ -27,7 +27,7 @@ int main() {
 			printf("Sunday");
 			break;
 		default:
-			printf("khong thuoc ngay tuan");
+			printf("khong thuoc ngay  tuan");
 	}
 	return 0;
 }
